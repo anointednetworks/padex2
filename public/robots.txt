@@ -1,0 +1,7 @@
+
+# illuminated-links robots.txt
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://illuminated-links.com/sitemap.xml
